@@ -1,4 +1,4 @@
-# webpage
+# landing-page
 building a webpage from scratch
 my intention for this project was to see if i can make everything that im seeing from an image and not code.
 everything went smooth with html but ive got some issues dealing with css, especially with flexbox!
